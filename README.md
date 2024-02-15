@@ -7,8 +7,6 @@
   </samp>
 </p>
 
-<br>
-
 <h3 align="center">
   <samp>
     Language and Tools:
@@ -18,5 +16,7 @@
 <p align="center">
   <samp>
     Python, SQL, TensorFlow, Pandas, NumPy, PyTorch, Matplotlib, Seaborn, Flask
-  </samp>
 </p>
+
+
+
