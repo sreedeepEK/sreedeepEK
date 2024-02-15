@@ -9,11 +9,11 @@
 
 <br>
 
-<p align="center">
+<h3 align="center">
   <samp>
     Language and Tools:
   </samp>
-</p>
+</h3>
 
 <p align="center">
   <samp>
