@@ -7,5 +7,4 @@ Data. Stories. Impact. I'm Sreedeep.
      
   </samp>
 </p>
-
-<samp class="centered-samp">Languages and Tools</samp>
+<p align="center"><samp>Languages and Tools</samp></p>
