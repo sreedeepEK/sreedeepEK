@@ -8,5 +8,5 @@
 </p>
 
 
-[![My Skills](https://skillicons.dev/icons?i=python,git,pytorch,anaconda,tensorflow,py,js,&perline=3)](https://skillicons.dev)
+[![ Tools ](https://skillicons.dev/icons?i=python,git,pytorch,tensorflow,py,js,aws,opencv,flask,docker,anaconda&perline=7)](https://skillicons.dev)
 
