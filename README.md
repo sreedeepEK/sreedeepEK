@@ -7,6 +7,8 @@
   </samp>
 </p>
 
-
-[![ Tools ](https://skillicons.dev/icons?i=python,git,pytorch,tensorflow,py,js,aws,opencv,flask,docker,anaconda&perline=7)](https://skillicons.dev)
+<p>&nbsp</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,git,pytorch,tensorflow,py,js,aws,opencv,flask,docker,anaconda,mysql&perline=6" alt="Tools" width="270">
+</p>
 
