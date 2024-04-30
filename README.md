@@ -1,7 +1,5 @@
-<br>
- <samp>
-<h2 align="center">Greetings, earthling!</h2>
-  </samp>
+<h2 align="center">Greetings, earthling !</h2>
+
 
 <h3 align="center"> 
   <samp>
