@@ -1,11 +1,15 @@
-<h2 align="center">Greetings, earthling !</h2>
+<h2 align="center">
+  <samp>
+  Hello, fellow carbon-based life form! 🌍
+    </samp>
+</h2>
 
 
-<h3 align="center"> 
+<p align="center"> 
   <samp>
     Data. Stories. Impact. I'm Sreedeep.
   </samp>
-</h3>
+</p>
 
 <div align="left">
 </div>
