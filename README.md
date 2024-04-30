@@ -1,6 +1,6 @@
 <h2 align="center">
   <samp>
-  Hello, fellow carbon-based life form! 🌍
+  Hello, fellow carbon-based life form! 🌱
     </samp>
 </h2>
 
