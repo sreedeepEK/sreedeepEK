@@ -5,11 +5,11 @@
 </h3>
 
 
-<p align="center"> 
+<h2 align="center"> 
   <samp>
     Data. Stories. Impact. I'm Sreedeep.
   </samp>
-</p>
+</h2>
 
 <div align="left">
 </div>
