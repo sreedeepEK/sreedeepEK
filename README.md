@@ -1,8 +1,8 @@
-<h2 align="center">
+<h3 align="center">
   <samp>
   Hello, fellow carbon-based life form! 🌱
     </samp>
-</h2>
+</h3>
 
 
 <p align="center"> 
