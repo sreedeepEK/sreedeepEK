@@ -2,9 +2,7 @@
    &nbsp;&nbsp;&nbsp;Hello, fellow carbon-based life form!
 </h3>
 
-<p align="center"> 
-   <samp>
- Data. Stories. Impact. I'm Sreedeep.
-   </samp>
-</p>
+<h4 align="center"> 
+ Data. Stories. Impact. I'm Sreedeep. :)
+</h4>
 
