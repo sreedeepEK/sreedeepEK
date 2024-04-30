@@ -1,13 +1,7 @@
-Hello, fellow carbon-based life form! 🌱
-    </samp>
-</h3>
+<h5 align="center">
+    Not sure what you're looking for, but I definitely know how to code it. :)
+</h5>
 
-
-<p align="left"> 
-  <samp>
-    Data. Stories. Impact. I'm Sreedeep.
-  </samp>
-</p>
-
-<div align="left">
-</div>
+<h5 align="center"> 
+  Data. Stories. Impact. I'm Sreedeep.
+</h5>
