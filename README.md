@@ -1,9 +1,9 @@
 <h4 align="center">
-    Not sure what you're looking for, but I definitely know how to code it. :)
+   &nbsp;&nbsp;&nbsp;Hello, fellow carbon-based life form!
 </h4>
 
-<h3 align="center"> 
+<p align="center"> 
    <samp>
-  Data. Stories. Impact. I'm Sreedeep.
+ Data. Stories. Impact. I'm Sreedeep.
    </samp>
-</h3>
+</p>
