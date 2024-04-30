@@ -1,20 +1,17 @@
 <br>
 <h2 align="center">Greetings, earthling!</h2>
 
-
-<p align="center">
+<h4 align="center">
   <samp>
-    There are two kind of people in the world. Those who understand binary and those who don't. :)
+    There are 10 kind of people in the world: Those who understand binary and those who don't :)
   </samp>
-</p>
+</h4>
 
-
-<p align="center">
+<h2 align="center"> 
   <samp>
     Data. Stories. Impact. I'm Sreedeep.
   </samp>
-</p>
+</h2>
 
 <div align="left">
 </div>
-
