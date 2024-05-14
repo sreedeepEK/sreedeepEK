@@ -3,6 +3,6 @@
 </h3>
 
 <h4 align="center"> 
- Data. Stories. Impact. I'm Sreedeep. :)
+ Data. Stories. Impact. I'm [Sreedeep] (https://sreedeepek.github.io/) :)
 </h4>
 
