@@ -12,7 +12,7 @@
 
 <p align="center">
 
-* [Run LLM's with Ollama: A Quick Guide.](https://sreedeepek.github.io/articles/Ollama)
-* [Scalable MatMul-free Language Modeling.](https://sreedeepek.github.io/articles/Scalable-MatMul-Language-Modeling)
+ [Gradient Descent: Explained](https://sreedeep.netlify.app/posts/gradient-descent/)                                     
+ [Vision transformer from Scratch](https://sreedeep.netlify.app/posts/vision-transformer/)
 
 </p>
