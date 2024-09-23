@@ -1,10 +1,6 @@
 <samp>
-Hello! I'm Sreedeep. I am an AI/ML engineer. I like deep neural nets and building cool stuff.
-<p> Find me elsewhere online: 
-   <a href= "mailto:sreedeepek.95@gmail.com">Email</a> • 
-   <a href="https://sreedeep.netlify.app/">Website </a> •
-   <a href="https://www.linkedin.com/in/sreedeepek/">Linkedin</a> • 
-   <a href= "https://monkeytype.com/profile/Chronoshift">MonkeyType</a>
-</p>
+Hi! I'm an AI/ML engineer. I like deep neural nets and building cool stuff. 
+
+Find me elsewhere online: [Email](mailto:sreedeepek.95@gmail.com) | [Web](https://sreedeep.netlify.app/) | [Twitter](https://x.com/sreedeepEK) | [LinkedIn](https://www.linkedin.com/in/sreedeepek/).
 
 </samp>
