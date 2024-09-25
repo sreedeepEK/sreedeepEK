@@ -1,2 +1,2 @@
 I like to train deep neural nets and building cool stuff.               
-Find me elsewhere online: [Email](mailto:sreedeepek.95@gmail.com), [Web](https://sreedeep.netlify.app/)
+ [Web](https://sreedeep.netlify.app/): Here you can see what I'm up to now.
