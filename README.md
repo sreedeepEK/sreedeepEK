@@ -1,3 +1,4 @@
 Hi, 
 
-I simplify complex data to support better decisions | Previously [@Logitech G](https://www.logitechg.com/en-us)
+
+I train Deep Neural Networks and build intelligent systems | Previously [@Logitech G](https://www.logitechg.com/en-us)
